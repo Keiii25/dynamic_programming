@@ -1,6 +1,3 @@
-#Student: Kar Kei Ong
-#Student No.: 31902634
-
 def best_schedule(weekly_income, competitions):
     '''
     Calculate the maximum amount of money that can earn by combining job as a personal
